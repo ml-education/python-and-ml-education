@@ -1,5 +1,19 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cobanov/python-and-ml-education/HEAD)
 
+
+# To-Do's
+- [ ] Numpy sayfasında açıklamalar yazılacak
+- [ ] Pandas sayfasında açıklamalar yazılacak
+- [ ] Seaborn sayfasında açıklamalar yazılacak
+- [ ] Regresyon başlıkları düzenlenecek ve kontrol yapılacak
+- [ ] Karar Ağaçlarının Örnek Kodu eklenecek
+- [ ] Workshop hazırlanacak
+- [ ] Readme'de eksik kısımlar tamamlanacak
+- [ ] Binder update edilecek
+
+
+
+
 # Python
 
 ## 1. Veri Tipleri
