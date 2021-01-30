@@ -1,10 +1,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ml-education/python-and-ml-education/HEAD)
 
-# To-Do's
-- [ ] Workshop verisetinin açıklamaları yazılacak
-- [ ] Binder update edilecek
-
-
 # Python
 
 ## 1. Veri Tipleri
