@@ -2,16 +2,8 @@
 
 
 # To-Do's
-- [ ] Numpy sayfasında açıklamalar yazılacak
-- [ ] Pandas sayfasında açıklamalar yazılacak
-- [ ] Seaborn sayfasında açıklamalar yazılacak
-- [ ] Regresyon başlıkları düzenlenecek ve kontrol yapılacak
-- [ ] Karar Ağaçlarının Örnek Kodu eklenecek
-- [ ] Workshop hazırlanacak
-- [ ] Readme'de eksik kısımlar tamamlanacak
+- [ ] Workshop verisetinin açıklamaları yazılacak
 - [ ] Binder update edilecek
-
-
 
 
 # Python
@@ -155,10 +147,16 @@
 - **9.2 Lineer Regresyon**
 	- Basit Lineer Regresyon
 	- İçeri Aktarma
-	
+	- Model Yaratma
+    - Sonuçları Alma
+    - Tahmin
+    - Görselleştirme
+    - Maliyet Fonksiyonu
+    
 - **9.3 Lojistik Regresyon**
-	- asd
-	- asd
+	- Tek Değişkenli Lojistik Regresyon
+	- Model Yaratma
+    - Değerlendirme
 
 - **9.4 Karar Ağaçları**
 	- Karar Ağaçları Nedir?
