@@ -1,5 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cobanov/python-and-ml-education/HEAD)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ml-education/python-and-ml-education/HEAD)
 
 # To-Do's
 - [ ] Workshop verisetinin açıklamaları yazılacak
